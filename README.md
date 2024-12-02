@@ -1,1 +1,1 @@
-# Supermarket-Sales-Analysis-using-SQL
+# Supermarket Sales Analysis using SQL
